@@ -15,8 +15,8 @@ python testimage.py --content content_image --style style_image --output output_
 ```
 python testvideo.py --content contentvideo.mp4 --style style_image/style_video 
 ```
-
 **Results**
+
 <img src="images/content/in1.jpg" width="200" hspace="5"><img src="images/style/in1.jpg" width="200" hspace="5"><img src="images/content/in3.jpg" width="200" hspace="5"><img src="images/style/in3.jpg" width="200" hspace="5">
 
 <img src="samples/in1.jpg" width="400" hspace="10"><img src="samples/in3.jpg" width="400" hspace="10">
